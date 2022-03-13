@@ -1,5 +1,5 @@
 import MovieStars from 'components/MovieStars/Index';
-import './styles.css'
+import './styles.css';
 function MovieScore(){
 
     const score = 13.5;

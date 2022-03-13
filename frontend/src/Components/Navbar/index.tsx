@@ -1,4 +1,5 @@
-import { ReactComponent as GuiHubIcon } from 'assets/img/github.svg';
+import {ReactComponent as GuiHubIcon} from 'assets/img/github.svg';
+import {ReactComponent as StarFull}   from 'assets/img/star-full.svg';
 import './styles.css';
 function Navbar() {
     
