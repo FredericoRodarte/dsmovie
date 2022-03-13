@@ -1,6 +1,7 @@
 import { ReactComponent as GuiHubIcon } from 'assets/img/github.svg';
 import './styles.css';
 function Navbar() {
+    
     return (
         <header>
             <nav className="container">
