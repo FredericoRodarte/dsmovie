@@ -1,4 +1,4 @@
-import MovieStars from 'components/MovieStars/Index';
+import MovieStars from "components/MovieStars/Index";
 import './styles.css';
 function MovieScore(){
 
